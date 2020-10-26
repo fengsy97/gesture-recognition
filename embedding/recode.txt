@@ -1,0 +1,4 @@
+recode.txt
+
+
+python3 run_augmentation.py ./give_set/paper more_samples 100 --rotate_angle_vari 180 --p_rotate_crop 0.5
